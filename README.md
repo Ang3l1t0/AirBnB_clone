@@ -1,6 +1,6 @@
 # AirBnB_clone
 
-![hbnb](https://photos.app.goo.gl/WFXeCnaH59grdHA3Ahttps://photos.app.goo.gl/WFXeCnaH59grdHA3A)
+![hbnb](https://i.imgur.com/44u0pXG.png)
 
 ## Table of Contents
 
@@ -61,10 +61,11 @@
 * [`__init__.py`](/models/__init__.py) - initialization code for Python package models
 * [tests](/tests/) - unit test files
 
-## Execution
-
 ### Unit Testing
 ```python3 -m unittest discover tests```
+
+## Execution
+1. git clone https://github.com/Ang3l1t0/AirBnB_clone.git 
 ## Usage Examples
 ### Interactive Mode
 
@@ -106,5 +107,5 @@ EOF  help  quit
 $
 ```
 ## Authors
-* Angel Palma | [GitHub]([https://github.com/Ang3l1t0](https://github.com/Ang3l1t0)) | [Twitter](https://twitter.com/Ang3lp)
+* Angel Palma | [GitHub](https://github.com/Ang3l1t0)) | [Twitter](https://twitter.com/Ang3lp)
 * Yoyman Castellar | [GitHub](https://github.com/ymcastellar) | [Twitter](https://twitter.com/CastellarYoyman)
